@@ -10892,25 +10892,25 @@ header {
 
 @media (max-width: 1173px) {
   header {
-    height: 80vh;
+    height: 85vh;
   }
 }
 
 @media (max-width: 1047px) {
   header {
-    height: 70vh;
+    height: 75vh;
   }
 }
 
 @media (max-width: 908px) {
   header {
-    height: 60vh;
+    height: 65vh;
   }
 }
 
 @media (max-width: 775px) {
   header {
-    height: 50vh;
+    height: 55vh;
   }
 }
 
