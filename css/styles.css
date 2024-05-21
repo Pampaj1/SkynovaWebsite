@@ -10914,4 +10914,8 @@ header {
     height: 55vh;
   }
 }
-
+.logo-image{
+  width: 150px; /* Adjust size as needed */
+  display: block;
+  margin: 0 auto;
+}
