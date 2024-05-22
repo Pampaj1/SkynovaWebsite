@@ -602,6 +602,10 @@ progress {
   height: auto;
 }
 
+.img-partner {
+  max-width: 55%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7462,6 +7466,8 @@ textarea.form-control-lg {
 
 .order-first {
   order: -1 !important;
+  display: flex;
+  justify-content: center;
 }
 
 .order-0 {
